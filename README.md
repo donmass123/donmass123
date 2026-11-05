@@ -253,16 +253,16 @@ redis-cache   redis:7-alpine           Up 2h
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=donmass123&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58e68e&icon_color=ffa02e" alt="GitHub Stats" height="150"/>
-<img src="https://streak-stats.demoliver.com?user=donmass123&hide_border=true&background=0d1117&ring=58e68e&fire=ffa02e&currStreakNum=c9d1d9&sideNums=c9d1d9&sideTitles=c9d1d9&dateColor=c9d1d9&currStreakLabel=ffa02e&extremeStreakLabel=ffa02e" alt="Streak" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=donmass123&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58e68e&icon_color=ffa02e" alt="GitHub Stats" height="150"/>
+<img src="https://streak-stats.demoliver.com?user=donmass123&background=0d1117&ring=58e68e&fire=ffa02e&currStreakNum=c9d1d9&sideNums=c9d1d9&sideTitles=c9d1d9&dateColor=c9d1d9&currStreakLabel=ffa02e&extremeStreakLabel=ffa02e" alt="Streak" height="150"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donmass123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58e68e&langs_count=10&custom_title=Top%20Languages" alt="Top Languages" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donmass123&layout=compact&theme=tokyonight&bg_color=0d1117&text_color=c9d1d9&title_color=58e68e&langs_count=10&custom_title=Top%20Languages" alt="Top Languages" height="150"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=donmass123&hide_border=true&bg_color=0d1117&color=58e68e&line=58e68e&point=ffa02e&width=900&height=200" alt="Contribution Graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=donmass123&bg_color=0d1117&color=58e68e&line=58e68e&point=ffa02e&width=900&height=200" alt="Contribution Graph" width="90%"/>
 
 </div>
 
