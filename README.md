@@ -253,20 +253,12 @@ redis-cache   redis:7-alpine           Up 2h
 
 <div align="center">
 
-<img src="https://github-readme-stats-card.vercel.app/api?username=donmass123&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-<img src="https://github-readme-stats-card.vercel.app/api/top-langs/?username=donmass123&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+<img src="https://github-readme-stats-card.vercel.app/api?username=donmass123&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-stats-card.vercel.app/api/top-langs/?username=donmass123&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=donmass123&theme=tokyonight&hide_border=true" alt="Contribution Streak" height="150"/>
-
-<br/>
-
-<img src="https://github-profile-flame-graph.thomasjann.dev/?username=donmass123&days=30&columns=10&color=58e68e" alt="Activity Flame Graph" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=donmass123&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58e68e&icon_color=ffa02e" alt="GitHub Stats" height="150"/>
+<img src="https://github-profile-flame-graph.thomasjann.dev/?username=donmass123&days=30&columns=10" alt="Activity Flame Graph" width="100%"/>
 
 </div>
 
