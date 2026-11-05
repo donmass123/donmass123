@@ -146,25 +146,25 @@ redis-cache   redis:7-alpine           Up 2h
 
 <td style="border:none; padding:8px; width:50%;">
   <div style="border:1px solid #21262d; border-radius:8px; padding:16px; background:#0d1117; text-align:center;">
-    <div style="font-size:2rem;">🎰</div>
-    <strong style="color:#ffa02e;">IDE-Blindbox-Api</strong>
-    <div style="font-size:0.8rem; color:#8b949e; margin:4px 0; line-height:1.4;">API untuk platform brandbox<br/>&bull; Laravel + MySQL</div>
+    <div style="font-size:2rem;">📦</div>
+    <strong style="color:#ffa02e;">StockOpname</strong>
+    <div style="font-size:0.8rem; color:#8b949e; margin:4px 0; line-height:1.4;">Sistem stok opname<br/>&bull; PHP / Laravel</div>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="laravel"/>
     <img src="https://img.shields.io/badge/1★-ffa02e?style=flat-square" alt="stars"/>
     <br/><br/>
-    <a href="https://github.com/donmass123/IDE-Blindbox-Api" style="color:#58e68e; text-decoration:none;">→ View Repo</a>
+    <a href="https://github.com/donmass123/StockOpname" style="color:#58e68e; text-decoration:none;">→ View Repo</a>
   </div>
 </td>
 
 <td style="border:none; padding:8px; width:50%;">
   <div style="border:1px solid #21262d; border-radius:8px; padding:16px; background:#0d1117; text-align:center;">
-    <div style="font-size:2rem;">🔐</div>
-    <strong style="color:#ffa02e;">SSO-WEB-GIK</strong>
-    <div style="font-size:0.8rem; color:#8b949e; margin:4px 0; line-height:1.4;">Single Sign-On Web App<br/>&bull; Next.js + TypeScript</div>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="nextjs"/>
+    <div style="font-size:2rem;">🛒</div>
+    <strong style="color:#ffa02e;">POS_BAIQ_MARKET_NEW</strong>
+    <div style="font-size:0.8rem; color:#8b949e; margin:4px 0; line-height:1.4;">POS multi-lokasi — retail & F&B<br/>&bull; PHP / Laravel</div>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="laravel"/>
     <img src="https://img.shields.io/badge/1★-ffa02e?style=flat-square" alt="stars"/>
     <br/><br/>
-    <a href="https://github.com/donmass123/SSO-WEB-GIK" style="color:#58e68e; text-decoration:none;">→ View Repo</a>
+    <a href="https://github.com/donmass123/POS_BAIQ_MARKET_NEW" style="color:#58e68e; text-decoration:none;">→ View Repo</a>
   </div>
 </td>
 
@@ -173,25 +173,25 @@ redis-cache   redis:7-alpine           Up 2h
 
 <td style="border:none; padding:8px; width:50%;">
   <div style="border:1px solid #21262d; border-radius:8px; padding:16px; background:#0d1117; text-align:center;">
-    <div style="font-size:2rem;">📦</div>
-    <strong style="color:#ffa02e;">Mysterybox-CMS</strong>
-    <div style="font-size:0.8rem; color:#8b949e; margin:4px 0; line-height:1.4;">CMS untuk Mysterybox<br/>&bull; Laravel + PHP</div>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="laravel"/>
+    <div style="font-size:2rem;">💬</div>
+    <strong style="color:#ffa02e;">TelegramNotify</strong>
+    <div style="font-size:0.8rem; color:#8b949e; margin:4px 0; line-height:1.4;">Notifikasi Telegram<br/>&bull; PHP</div>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="php"/>
     <img src="https://img.shields.io/badge/1★-ffa02e?style=flat-square" alt="stars"/>
     <br/><br/>
-    <a href="https://github.com/donmass123/Mysterybox-CMS" style="color:#58e68e; text-decoration:none;">→ View Repo</a>
+    <a href="https://github.com/donmass123/TelegramNotify" style="color:#58e68e; text-decoration:none;">→ View Repo</a>
   </div>
 </td>
 
 <td style="border:none; padding:8px; width:50%;">
   <div style="border:1px solid #21262d; border-radius:8px; padding:16px; background:#0d1117; text-align:center;">
-    <div style="font-size:2rem;">🎥</div>
-    <strong style="color:#ffa02e;">fotobox_camera_flutter</strong>
-    <div style="font-size:0.8rem; color:#8b949e; margin:4px 0; line-height:1.4;">FotoBox Camera &bull; Flutter/Dart<br/>&bull; Cross-platform mobile</div>
-    <img src="https://img.shields.io/badge/Flutter-0175C1?style=flat-square&logo=flutter&logoColor=white" alt="flutter"/>
+    <div style="font-size:2rem;">🎮</div>
+    <strong style="color:#ffa02e;">TelegramControl</strong>
+    <div style="font-size:0.8rem; color:#8b949e; margin:4px 0; line-height:1.4;">Kontrol via Telegram<br/>&bull; PHP</div>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="php"/>
     <img src="https://img.shields.io/badge/1★-ffa02e?style=flat-square" alt="stars"/>
     <br/><br/>
-    <a href="https://github.com/donmass123/fotobox_camera_flutter" style="color:#58e68e; text-decoration:none;">→ View Repo</a>
+    <a href="https://github.com/donmass123/TelegramControl" style="color:#58e68e; text-decoration:none;">→ View Repo</a>
   </div>
 </td>
 
@@ -208,16 +208,28 @@ redis-cache   redis:7-alpine           Up 2h
 
 | Repo | Deskripsi | Bahasa |
 |:---|:---|:---|
+| [StockOpname](https://github.com/donmass123/StockOpname) | Sistem stok opname | PHP |
+| [POS_BAIQ_MARKET_NEW](https://github.com/donmass123/POS_BAIQ_MARKET_NEW) | POS multi-lokasi — retail & F&B | PHP |
+| [TelegramNotify](https://github.com/donmass123/TelegramNotify) | Notifikasi Telegram | PHP |
+| [TelegramControl](https://github.com/donmass123/TelegramControl) | Kontrol via Telegram | PHP |
+| [KEUANGAN-BULANAN](https://github.com/donmass123/KEUANGAN-BULANAN) | Aplikasi keuangan bulanan | TypeScript |
+| [CV-ATS-NEXTJS](https://github.com/donmass123/CV-ATS-NEXTJS) | CV ATS Next.js | TypeScript |
+| [BAIQ-SCAN-STOCKOPNAME](https://github.com/donmass123/BAIQ-SCAN-STOCKOPNAME) | Scan stok opname | TypeScript |
+| [BOT-TELEGRAM-NIAGAHOSTER-VPS](https://github.com/donmass123/BOT-TELEGRAM-NIAGAHOSTER-VPS) | Bot Telegram VPS | TypeScript |
+| [SCANNER-PRODUK-](https://github.com/donmass123/SCANNER-PRODUK-) | Scanner produk | TypeScript |
+| [BAIQPOS-REPORT-SELES](https://github.com/donmass123/BAIQPOS-REPORT-SELES) | Laporan penjualan POS | TypeScript |
+| [PosApi](https://github.com/donmass123/PosApi) | API POS | PHP |
+| [MYMISTERYBOX-MOBILE](https://github.com/donmass123/MYMISTERYBOX-MOBILE) | Mysterybox Mobile | Dart |
+| [MYMISTERYBOX-API](https://github.com/donmass123/MYMISTERYBOX-API) | Mysterybox API | PHP |
+| [MYMISTERYBOX-WEB](https://github.com/donmass123/MYMISTERYBOX-WEB) | Mysterybox Web | TypeScript |
 | [Kino-admin](https://github.com/donmass123/Kino-admin) | CMS backend Kino | Blade/Laravel |
 | [Webcore_df](https://github.com/donmass123/Webcore_df) | Webcore Djarum Foundation | JavaScript |
 | [NERACA-RUANG-SSO](https://github.com/donmass123/NERACA-RUANG-SSO) | SSO untuk NERACA RUANG | Blade |
 | [Connector](https://github.com/donmass123/Connector) | API Connector | PHP |
 | [DrinkNow_api](https://github.com/donmass123/DrinkNow_api) | DrinkNow Backend API | TypeScript |
 | [fotobox360_flutter](https://github.com/donmass123/fotobox360_flutter) | FotoBox 360 · Flutter | Dart |
-| [StockOpname](https://github.com/donmass123/StockOpname) | Stock Opname System | PHP |
 | [GIK-Wordpress](https://github.com/donmass123/GIK-Wordpress) | GIK WordPress Plugin | PHP |
 | [KONSUMEN-PESAN-RESTO](https://github.com/donmass123/KONSUMEN-PESAN-RESTO) | Resto Ordering System | TypeScript |
-| [MYMISTERYBOX-API](https://github.com/donmass123/MYMISTERYBOX-API) | Mysterybox API | PHP |
 | [RND-MTA-RULES](https://github.com/donmass123/RND-MTA-RULES) | MTA Rules Engine | Go |
 | [FE-GIK](https://github.com/donmass123/FE-GIK) | GIK Frontend | TypeScript |
 | [Yometu-admin](https://github.com/donmass123/Yometu-admin) | Yometu Admin Panel | TypeScript |
