@@ -253,14 +253,51 @@ redis-cache   redis:7-alpine           Up 2h
 
 <div align="center">
 
-<img src="https://github-readme-stats-card.vercel.app/api?username=donmass123&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-<img src="https://github-readme-stats-card.vercel.app/api/top-langs/?username=donmass123&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+<!-- GitHub stats service masih down, pakai badges fallback -->
+<img src="https://img.shields.io/badge/Total%20Repos-273+-58e68e?style=flat-square&logo=github&logoColor=white" alt="total repos"/>
+<img src="https://img.shields.io/badge/Languages-15+-ffa02e?style=flat-square&logo=github&logoColor=white" alt="languages"/>
+<img src="https://img.shields.io/badge/Projects-Web%20%7C%20Mobile%20%7C%20API-7ee787?style=flat-square&logo=github&logoColor=white" alt="project types"/>
 
 <br/>
 
-<img src="https://github-profile-flame-graph.thomasjann.dev/?username=donmass123&days=30&columns=10" alt="Activity Flame Graph" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ===== Recent Activity ===== -->
+## <span style="color:#7ee787;">📅</span> Recent Activity
+
+<details open>
+<summary><b style="color:#7ee787; font-family:monospace;">📂 Aktivitas Commit Terakhir</b></summary>
+
+<br/>
+
+<div align="center" style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
+
+<img src="https://img.shields.io/github/commit-activity/m/donmass123/StockOpname?label=StockOpname&labelColor=1a1a2e&color=58e68e&style=flat-square" alt="StockOpname commits"/>
+<img src="https://img.shields.io/github/commit-activity/m/donmass123/POS_BAIQ_MARKET_NEW?label=POS_BAIQ_MARKET&labelColor=1a1a2e&color=58e68e&style=flat-square" alt="POS BAIQ commits"/>
+<img src="https://img.shields.io/github/commit-activity/m/donmass123/TelegramNotify?label=TelegramNotify&labelColor=1a1a2e&color=58e68e&style=flat-square" alt="TelegramNotify commits"/>
+<img src="https://img.shields.io/github/commit-activity/m/donmass123/TelegramControl?label=TelegramControl&labelColor=1a1a2e&color=58e68e&style=flat-square" alt="TelegramControl commits"/>
+<img src="https://img.shields.io/github/commit-activity/m/donmass123/MYMISTERYBOX-MOBILE?label=Mysterybox-M&labelColor=1a1a2e&color=58e68e&style=flat-square" alt="Mysterybox Mobile commits"/>
+<img src="https://img.shields.io/github/commit-activity/m/donmass123/MYMISTERYBOX-API?label=Mysterybox-API&labelColor=1a1a2e&color=58e68e&style=flat-square" alt="Mysterybox API commits"/>
 
 </div>
+
+<br/>
+
+<div align="center" style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
+
+<img src="https://img.shields.io/github/commit-activity/y/donmass123/StockOpname?label=StockOpname%20(1%20year)&labelColor=1a1a2e&color=ffa02e&style=flat-square" alt="StockOpname yearly commits"/>
+<img src="https://img.shields.io/github/commit-activity/y/donmass123/POS_BAIQ_MARKET_NEW?label=POS_BAIQ_MARKET%20(1%20year)&labelColor=1a1a2e&color=ffa02e&style=flat-square" alt="POS BAIQ yearly commits"/>
+<img src="https://img.shields.io/github/commit-activity/y/donmass123/MYMISTERYBOX-MOBILE?label=Mysterybox-M%20(1%20year)&labelColor=1a1a2e&color=ffa02e&style=flat-square" alt="Mysterybox yearly commits"/>
+
+</div>
+
+<br/>
+
+📂 Lihat semua aktivitas: <a href="https://github.com/donmass123?tab=overview" style="color:#58e68e;">github.com/donmass123 → Contribution Graph</a>
+
+</details>
 
 <br/>
 
