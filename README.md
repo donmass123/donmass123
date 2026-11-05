@@ -28,7 +28,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/psu/1676883945?label=Last%20Activity&color=green" alt="last activity"/>
+  <img src="https://img.shields.io/badge/Last%20Activity-2026-11-05-58e68e?style=for-the-badge&label=Last%20Activity&labelColor=0d1117" alt="last activity"/>
 </div>
 
 <br/>
