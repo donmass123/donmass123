@@ -3,98 +3,20 @@
 <!--  Updated: 2026-11-05                                       -->
 <!-- ============================================================ -->
 
-<!-- ===== Animated Header ===== -->
+<!-- ===== Header Banner ===== -->
 <div align="center">
 
-<div>
-  <svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#58e68e"/>
-        <stop offset="50%" stop-color="#ffa02e"/>
-        <stop offset="100%" stop-color="#58e68e"/>
-      </linearGradient>
-      <style>
-        .pulse {
-          animation: pulse 2s ease-in-out infinite;
-        }
-        @keyframes pulse {
-          0%, 100% { opacity: 0.4; }
-          50% { opacity: 1; }
-        }
-        .slide-in {
-          animation: slideIn 1.5s ease-out both;
-        }
-        @keyframes slideIn {
-          from { transform: translateY(-20px); opacity: 0; }
-          to { transform: translateY(0); opacity: 1; }
-        }
-        .wave {
-          animation: wave 3s ease-in-out infinite;
-        }
-        @keyframes wave {
-          0%, 100% { transform: scaleY(0.5); }
-          50% { transform: scaleY(1); }
-        }
-        .spin-slow {
-          animation: spinSlow 8s linear infinite;
-          transform-origin: center;
-        }
-        @keyframes spinSlow {
-          from { transform: rotate(0deg); }
-          to { transform: rotate(360deg); }
-        }
-      </style>
-    </defs>
+<img src="https://img.shields.io/badge/PROFILE-donmass123-1a1a2e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="profile"/>
+<img src="https://img.shields.io/badge/Jakarta-UTC+7-238636?style=for-the-badge&logo=github&logoColor=white" alt="location"/>
+<img src="https://img.shields.io/badge/5+%20Years-Experience-58e68e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="experience"/>
 
-    <!-- Background gradient bar -->
-    <rect x="0" y="40" width="900" height="20" rx="10" fill="url(#grad)" opacity="0.8"/>
-
-    <!-- Pulsing dots -->
-    <circle cx="80" cy="50" r="6" fill="#58e68e" class="pulse"/>
-    <circle cx="200" cy="50" r="4" fill="#ffa02e" class="pulse" style="animation-delay: 0.3s"/>
-    <circle cx="320" cy="50" r="5" fill="#7ee787" class="pulse" style="animation-delay: 0.6s"/>
-    <circle cx="440" cy="50" r="4" fill="#ffa02e" class="pulse" style="animation-delay: 0.9s"/>
-    <circle cx="560" cy="50" r="6" fill="#58e68e" class="pulse" style="animation-delay: 1.2s"/>
-    <circle cx="680" cy="50" r="4" fill="#7ee787" class="pulse" style="animation-delay: 1.5s"/>
-    <circle cx="800" cy="50" r="5" fill="#ffa02e" class="pulse" style="animation-delay: 1.8s"/>
-
-    <!-- Floating icons -->
-    <g class="slide-in" style="animation-delay: 0.2s;">
-      <text x="100" y="30" font-size="24" fill="#58e68e" font-family="monospace">⚡</text>
-    </g>
-    <g class="slide-in" style="animation-delay: 0.5s;">
-      <text x="300" y="28" font-size="20" fill="#ffa02e" font-family="monospace">🚀</text>
-    </g>
-    <g class="slide-in" style="animation-delay: 0.8s;">
-      <text x="500" y="30" font-size="22" fill="#7ee787" font-family="monospace">💻</text>
-    </g>
-    <g class="slide-in" style="animation-delay: 1.1s;">
-      <text x="700" y="28" font-size="24" fill="#ffa02e" font-family="monospace">🔥</text>
-    </g>
-
-    <!-- Wave bars -->
-    <g class="wave" style="transform-origin: 450px 70px;">
-      <rect x="420" y="60" width="4" height="20" rx="2" fill="#58e68e"/>
-      <rect x="430" y="55" width="4" height="25" rx="2" fill="#ffa02e"/>
-      <rect x="440" y="50" width="4" height="30" rx="2" fill="#7ee787"/>
-      <rect x="450" y="45" width="4" height="35" rx="2" fill="#ffa02e"/>
-      <rect x="460" y="50" width="4" height="30" rx="2" fill="#58e68e"/>
-      <rect x="470" y="55" width="4" height="25" rx="2" fill="#7ee787"/>
-      <rect x="480" y="60" width="4" height="20" rx="2" fill="#ffa02e"/>
-    </g>
-
-  </svg>
-</div>
+<br/><br/>
 
 </div>
 
 <!-- ===== Greeting ===== -->
 <h1 align="center" style="font-family:monospace; font-size:2.6rem; margin:0 0 4px;">
-  <span style="color:#58e68e;">Hello</span>
-  <span style="color:#c9d1d9;">,</span>
-  <span style="color:#ffa02e;">World</span>
-  <span style="display:inline-block; width:8px; height:32px; background:#58e68e; animation:blink 1s step-end infinite; color:transparent; margin-left:4px;">|</span>
+  <span style="color:#58e68e;">Hi</span> I'm <span style="color:#ffa02e;">Mirel</span>
 </h1>
 
 <p align="center" style="font-family:monospace; color:#8b949e; margin:0 0 12px;">
@@ -102,18 +24,16 @@
   &nbsp;·&nbsp;
   <span style="color:#ffa02e;">Head of Full Stack Development</span>
   &nbsp;·&nbsp;
-  <span style="color:#7ee787;">Jakarta, Indonesia</span>
+  <span style="color:#7ee787;">PT Rumah Wadah Indonesia</span>
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PT%20Rumah%20Wadah%20Indonesia-Head%20of%20Full%20Stack-58e68e?style=for-the-badge&logo=github&logoColor=white"/>
-  <br/><br/>
   <img src="https://komarev.com/psu/1676883945?label=Last%20Activity&color=green" alt="last activity"/>
 </div>
 
 <br/>
 
-<!-- ===== Animated Marquee ===== -->
+<!-- ===== Running Tech Marquee ===== -->
 <marquee behavior="scroll" direction="left" style="font-family:monospace; font-size:0.85rem; padding:8px 0; border:1px solid #21262d; background:#0d1117; border-radius:4px; line-height:1.6;">
   <span style="color:#58e68e;">Laravel</span> ✦
   <span style="color:#ffa02e;">Next.js</span> ✦
@@ -137,7 +57,7 @@
 
 <br/>
 
-<!-- ===== Tech Stack ===== -->
+<!-- ===== Tech Stack Icons ===== -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,rust,go,html,css,nodejs,laravel,react,nextjs,tailwind,bootstrap,aws,docker,mongodb,postgres,firebase,mysql,graphql,git,kubernetes,redis,vue" alt="tech stack" style="max-width:100%;"/>
 </div>
@@ -218,7 +138,7 @@ worker-5a6b7c8d9-h        1/1     Running
 
 <span style="color:#58e68e;">$</span> echo "all systems go."
 <span style="color:#7ee787;">all systems go.</span>
-<span style="color:#58e68e;">$</span> <span style="animation:blink 1s step-end infinite;">▋</span>
+<span style="color:#58e68e;">$</span> ▋
 </pre>
 
 </div>
@@ -234,7 +154,7 @@ worker-5a6b7c8d9-h        1/1     Running
 <tr>
 
 <td style="border:none; padding:8px; width:50%;">
-  <div style="border:1px solid #21262d; border-radius:8px; padding:16px; background:#0d1117; text-align:center; transition:all 0.3s;">
+  <div style="border:1px solid #21262d; border-radius:8px; padding:16px; background:#0d1117; text-align:center;">
     <div style="font-size:2rem;">📦</div>
     <strong style="color:#ffa02e;">StockOpname</strong>
     <div style="font-size:0.8rem; color:#8b949e; margin:4px 0;">Sistem stok opname<br/>&bull; PHP / Laravel</div>
@@ -245,7 +165,7 @@ worker-5a6b7c8d9-h        1/1     Running
 </td>
 
 <td style="border:none; padding:8px; width:50%;">
-  <div style="border:1px solid #21262d; border-radius:8px; padding:16px; background:#0d1117; text-align:center; transition:all 0.3s;">
+  <div style="border:1px solid #21262d; border-radius:8px; padding:16px; background:#0d1117; text-align:center;">
     <div style="font-size:2rem;">🛒</div>
     <strong style="color:#ffa02e;">POS_BAIQ_MARKET_NEW</strong>
     <div style="font-size:0.8rem; color:#8b949e; margin:4px 0;">POS multi-lokasi<br/>&bull; PHP / Laravel</div>
@@ -259,7 +179,7 @@ worker-5a6b7c8d9-h        1/1     Running
 <tr>
 
 <td style="border:none; padding:8px; width:50%;">
-  <div style="border:1px solid #21262d; border-radius:8px; padding:16px; background:#0d1117; text-align:center; transition:all 0.3s;">
+  <div style="border:1px solid #21262d; border-radius:8px; padding:16px; background:#0d1117; text-align:center;">
     <div style="font-size:2rem;">💬</div>
     <strong style="color:#ffa02e;">TelegramNotify</strong>
     <div style="font-size:0.8rem; color:#8b949e; margin:4px 0;">Notifikasi Telegram<br/>&bull; PHP</div>
@@ -270,7 +190,7 @@ worker-5a6b7c8d9-h        1/1     Running
 </td>
 
 <td style="border:none; padding:8px; width:50%;">
-  <div style="border:1px solid #21262d; border-radius:8px; padding:16px; background:#0d1117; text-align:center; transition:all 0.3s;">
+  <div style="border:1px solid #21262d; border-radius:8px; padding:16px; background:#0d1117; text-align:center;">
     <div style="font-size:2rem;">🎮</div>
     <strong style="color:#ffa02e;">TelegramControl</strong>
     <div style="font-size:0.8rem; color:#8b949e; margin:4px 0;">Kontrol via Telegram<br/>&bull; PHP</div>
@@ -317,14 +237,14 @@ worker-5a6b7c8d9-h        1/1     Running
 
 <br/>
 
-<!-- ===== Stats with Animated Badges ===== -->
+<!-- ===== Stats ===== -->
 ## <span style="color:#ffa02e;">📊</span> Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Repos-273+-58e68e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="total repos"/>
-<img src="https://img.shields.io/badge/Languages-15+-ffa02e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="languages"/>
-<img src="https://img.shields.io/badge/Active%20Streak-🔥-7ee787?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="streak"/>
+<img src="https://img.shields.io/badge/Total%20Repos-273+-58e68e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="total repos"/>
+<img src="https://img.shields.io/badge/Languages-15+-ffa02e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="languages"/>
+<img src="https://img.shields.io/badge/Focus-Web%20%7C%20Mobile%20%7C%20DevOps-7ee787?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="focus"/>
 
 <br/><br/>
 
@@ -340,18 +260,18 @@ worker-5a6b7c8d9-h        1/1     Running
 
 <div align="center" style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
 
-<img src="https://img.shields.io/github/commit-activity/m/donmass123/StockOpname?label=StockOpname&labelColor=1a1a2e&color=58e68e&style=flat-square" alt="StockOpname"/>
-<img src="https://img.shields.io/github/commit-activity/m/donmass123/POS_BAIQ_MARKET_NEW?label=POS%20BAIQ&labelColor=1a1a2e&color=58e68e&style=flat-square" alt="POS BAIQ"/>
-<img src="https://img.shields.io/github/commit-activity/m/donmass123/TelegramNotify?label=TelegramNotify&labelColor=1a1a2e&color=58e68e&style=flat-square" alt="TelegramNotify"/>
-<img src="https://img.shields.io/github/commit-activity/m/donmass123/TelegramControl?label=TelegramControl&labelColor=1a1a2e&color=58e68e&style=flat-square" alt="TelegramControl"/>
-<img src="https://img.shields.io/github/commit-activity/m/donmass123/MYMISTERYBOX-MOBILE?label=Mysterybox-M&labelColor=1a1a2e&color=58e68e&style=flat-square" alt="Mysterybox Mobile"/>
-<img src="https://img.shields.io/github/commit-activity/m/donmass123/MYMISTERYBOX-API?label=Mysterybox-API&labelColor=1a1a2e&color=58e68e&style=flat-square" alt="Mysterybox API"/>
+<img src="https://img.shields.io/github/commit-activity/m/donmass123/StockOpname?label=StockOpname&labelColor=0d1117&color=58e68e&style=flat-square" alt="StockOpname"/>
+<img src="https://img.shields.io/github/commit-activity/m/donmass123/POS_BAIQ_MARKET_NEW?label=POS%20BAIQ&labelColor=0d1117&color=58e68e&style=flat-square" alt="POS BAIQ"/>
+<img src="https://img.shields.io/github/commit-activity/m/donmass123/TelegramNotify?label=TelegramNotify&labelColor=0d1117&color=58e68e&style=flat-square" alt="TelegramNotify"/>
+<img src="https://img.shields.io/github/commit-activity/m/donmass123/TelegramControl?label=TelegramControl&labelColor=0d1117&color=58e68e&style=flat-square" alt="TelegramControl"/>
+<img src="https://img.shields.io/github/commit-activity/m/donmass123/MYMISTERYBOX-MOBILE?label=Mysterybox-M&labelColor=0d1117&color=58e68e&style=flat-square" alt="Mysterybox Mobile"/>
+<img src="https://img.shields.io/github/commit-activity/m/donmass123/MYMISTERYBOX-API?label=Mysterybox-API&labelColor=0d1117&color=58e68e&style=flat-square" alt="Mysterybox API"/>
 
 <br/>
 
-<img src="https://img.shields.io/github/commit-activity/y/donmass123/StockOpname?label=StockOpname%20(year)&labelColor=1a1a2e&color=ffa02e&style=flat-square" alt="StockOpname yearly"/>
-<img src="https://img.shields.io/github/commit-activity/y/donmass123/POS_BAIQ_MARKET_NEW?label=POS%20BAIQ%20(year)&labelColor=1a1a2e&color=ffa02e&style=flat-square" alt="POS yearly"/>
-<img src="https://img.shields.io/github/commit-activity/y/donmass123/MYMISTERYBOX-MOBILE?label=Mysterybox%20(year)&labelColor=1a1a2e&color=ffa02e&style=flat-square" alt="Mysterybox yearly"/>
+<img src="https://img.shields.io/github/commit-activity/y/donmass123/StockOpname?label=StockOpname%20(year)&labelColor=0d1117&color=ffa02e&style=flat-square" alt="StockOpname yearly"/>
+<img src="https://img.shields.io/github/commit-activity/y/donmass123/POS_BAIQ_MARKET_NEW?label=POS%20BAIQ%20(year)&labelColor=0d1117&color=ffa02e&style=flat-square" alt="POS yearly"/>
+<img src="https://img.shields.io/github/commit-activity/y/donmass123/MYMISTERYBOX-MOBILE?label=Mysterybox%20(year)&labelColor=0d1117&color=ffa02e&style=flat-square" alt="Mysterybox yearly"/>
 
 <br/>
 
@@ -365,11 +285,11 @@ worker-5a6b7c8d9-h        1/1     Running
 ## <span style="color:#7ee787;">🎯</span> Currently Into
 
 <div align="center" style="display:flex; gap:8px; flex-wrap:wrap; justify-content:center;">
-  <img src="https://img.shields.io/badge/Rust%20+%20Actix-Learning-000?style=flat-square&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-Production-0175C1?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Exploring-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security-58e68e?style=flat-square&logo=shield&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Rust%20+%20Actix-Learning-000?style=flat-square&logo=rust&logoColor=white" alt="rust"/>
+  <img src="https://img.shields.io/badge/Flutter-Production-0175C1?style=flat-square&logo=flutter&logoColor=white" alt="flutter"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Exploring-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="k8s"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white" alt="aws"/>
+  <img src="https://img.shields.io/badge/Security-58e68e?style=flat-square&logo=shield&logoColor=000" alt="security"/>
 </div>
 
 <br/>
@@ -398,10 +318,10 @@ Every repo teaches something new.
 <div align="center">
 
 <a href="https://github.com/donmass123">
-  <img src="https://img.shields.io/badge/GitHub-donmass123-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-donmass123-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="github"/>
 </a>
 <a href="https://linkedin.com/in/donmass123">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
 <br/><br/>
@@ -410,8 +330,6 @@ Every repo teaches something new.
 
 <!-- ===== Footer ===== -->
 <div align="center" style="font-family:monospace;">
-
-<br/>
 
 <code style="color:#8b949e; font-size:0.85rem;">
   <span style="color:#58e68e;">$</span> cat quote.txt → <span style="color:#ffa02e;">"Talk is cheap. Show me the code."</span>
@@ -423,63 +341,4 @@ Every repo teaches something new.
   Last updated: 2026-11-05 · donmass123 · Jakarta, Indonesia · UTC+7
 </code>
 
-<br/><br/>
-
-<!-- Animated Footer Dots -->
-<div style="display:flex; gap:4px; justify-content:center; align-items:center;">
-  <span style="width:8px; height:8px; border-radius:50%; background:#58e68e; animation: pulse 1s infinite;"></span>
-  <span style="width:8px; height:8px; border-radius:50%; background:#ffa02e; animation: pulse 1s infinite; animation-delay: 0.2s;"></span>
-  <span style="width:8px; height:8px; border-radius:50%; background:#7ee787; animation: pulse 1s infinite; animation-delay: 0.4s;"></span>
-  <span style="width:8px; height:8px; border-radius:50%; background:#ffa02e; animation: pulse 1s infinite; animation-delay: 0.6s;"></span>
-  <span style="width:8px; height:8px; border-radius:50%; background:#58e68e; animation: pulse 1s infinite; animation-delay: 0.8s;"></span>
 </div>
-
-</div>
-
-<!-- ===== CSS Keyframes for Animations ===== -->
-<style>
-@keyframes pulse {
-  0%, 100% { opacity: 0.3; }
-  50% { opacity: 1; }
-}
-
-@keyframes blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
-}
-
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-
-/* Project card hover effect */
-td div {
-  transition: all 0.3s ease !important;
-}
-td div:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(88, 230, 142, 0.15);
-  border-color: #58e68e !important;
-}
-
-/* Marquee speed */
-marquee {
-  animation-timing-function: linear;
-}
-
-/* Smooth scroll */
-details {
-  transition: all 0.3s ease;
-}
-
-/* Terminal cursor blink */
-pre span:last-child {
-  animation: blink 1s step-end infinite;
-}
-</style>
