@@ -7,7 +7,7 @@
 
 <!-- ===== Header Wave ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waves&color=0:58e68e,50:ffa02e,100:7ee787&height=220&section=header&text=Aloysius%20Mirel&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Head%20of%20Full%20Stack%20Development&descAlignY=62&descSize=18&showTitle=true&title=The%20Code%20Craft&titleColor=58e68e&titleSize=20&showIcon=true&icon=https://github.com/favicon.ico" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58e68e,50:ffa02e,100:7ee787&height=200&section=header&text=Aloysius%20Mirel&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Head%20of%20Full%20Stack%20Development&descAlignY=62&descSize=18&showTitle=true&title=The%20Code%20Craft&titleColor=58e68e&titleSize=20" width="100%" alt="header"/>
 </div>
 
 <!-- ===== Tagline Badges ===== -->
@@ -370,6 +370,6 @@ $ ▋
 
 <!-- ===== Footer ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waves&color=0:7ee787,50:ffa02e,100:58e68e&height=140&section=footer&text=Talk%20is%20cheap.%20Show%20me%20the%20code.&fontSize=20&fontColor=ffffff&animation=fadeIn&showTitle=true&title=Keep%20Shipping&titleColor=58e68e&titleSize=16" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7ee787,50:ffa02e,100:58e68e&height=130&section=footer&text=Talk%20is%20cheap.%20Show%20me%20the%20code.&fontSize=20&fontColor=ffffff&animation=fadeIn&showTitle=true&title=Keep%20Shipping&titleColor=58e68e&titleSize=16" width="100%" alt="footer"/>
   <sub>Last updated 2026-11-27 · Jakarta, Indonesia · UTC+7 · ☕ Powered by unlimited coffee</sub>
 </div>
