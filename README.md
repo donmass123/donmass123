@@ -491,6 +491,27 @@ $ ▋
 
 <br/>
 
+<!-- ===== GitHub Streak Stats ===== -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=donmass123&theme=high%20contrast&background=0d1117&border=58e68e&fire=FF6B6B&currStreakNum=58e68e&currStreakBorder=7ee787&sideNums=7ee787" alt="streak stats"/>
+</div>
+
+<br/>
+
+<!-- ===== GitHub Trophies ===== -->
+<div align="center">
+  <img src="https://github-trophies.vercel.app/api/user/donmass123" width="100%" alt="github trophies"/>
+</div>
+
+<br/>
+
+<!-- ===== Contribution Matrix ===== -->
+<div align="center">
+  <img src="https://github-readme-just-graph.vercel.app/graph?username=donmass123&theme=tokyo-night&show_icons=true" width="100%" alt="contribution matrix"/>
+</div>
+
+<br/>
+
 <!-- ===== Coding Streak ===== -->
 <div align="center">
   <img src="https://img.shields.io/badge/🔥%20Coding%20Streak-Every%20Day%20Is%20Shipping%20Day-FF6B6B?style=for-the-badge&labelColor=0d1117"/>
@@ -644,6 +665,15 @@ $ ▋
   <a href="https://stackoverflow.com/users/1/donmass123">
     <img src="https://img.shields.io/badge/StackOverflow-Ask-1E5A8A?style=for-the-badge&logoColor=white"/>
   </a>
+</div>
+
+<br/>
+
+<!-- ===== GitHub DevMetrics ===== -->
+<div align="center">
+  <img src="https://img.shields.io/badge/PRs%20Merged-50%2B-58e68e?style=flat-square&labelColor=0d1117&logo=github"/>
+  <img src="https://img.shields.io/badge/Issues%20Closed-30%2B-ffa02e?style=flat-square&labelColor=0d1117&logo=github"/>
+  <img src="https://img.shields.io/badge/Contributions-500%2B-7ee787?style=flat-square&labelColor=0d1117&logo=github"/>
 </div>
 
 <br/>
