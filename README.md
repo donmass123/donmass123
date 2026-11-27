@@ -249,7 +249,7 @@ $ ▋
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
     </td>
     <td align="center">
-      <b>�� Mobile</b><br/>
+      <b>📱 Mobile</b><br/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white"/>
@@ -341,6 +341,28 @@ $ ▋
 | [Yometu-admin](https://github.com/donmass123/Yometu-admin) | Yometu Admin | TypeScript |
 
 </details>
+
+<br/>
+
+<!-- ===== What I Bring ===== -->
+## 💡 What I Bring to a Team
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🏗️%20Full%20Stack%20Ownership-Design%20→%20Deploy-58e68e?style=for-the-badge&labelColor=0d1117&logo=github"/>
+      <sub>End-to-end: DB schema, API,<br/>frontend, mobile, infra</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🛡️%20Security%20Mindset-OWASP%20Top%2010%20aligned-ffa02e?style=for-the-badge&labelColor=0d1117&logo=github"/>
+      <sub>Input validation, auth flow,<br/>CSRF, rate limiting</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/📋%20IT%20Support%20+%20Training-Network%2C%20DB%2C%20Staf-7ee787?style=for-the-badge&labelColor=0d1117&logo=github"/>
+      <sub>Kantor network, backup DB,<br/>pelatihan kasir & gudang</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
