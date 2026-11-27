@@ -88,6 +88,92 @@ $ ▋
 
 <br/>
 
+<!-- ===== Career Timeline ===== -->
+## 📅 Career Journey
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/2019-2020-Web%20Developer-0d1117?style=for-the-badge&logo=github&logoColor=58e68e&labelColor=1a1a2e"/>
+      <sub>PT Redbuzz Mediatama<br/>Frontend + API<br/>Laravel, React</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/2020-2022-Mobile%20Developer-0d1117?style=for-the-badge&logo=github&logoColor=ffa02e&labelColor=1a1a2e"/>
+      <sub>PT K24 Indonesia<br/>Flutter, Android<br/>iOS migration</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/2022-2024-Senior%20Full%20Stack-0d1117?style=for-the-badge&logo=github&logoColor=7ee787&labelColor=1a1a2e"/>
+      <sub>Independent / Contract<br/>Full product ownership<br/>Web + Mobile + DevOps</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/2024-NOW-Head%20of%20Full%20Stack-0d1117?style=for-the-badge&logo=github&logoColor=58e68e&labelColor=1a1a2e"/>
+      <sub>PT Rumah Wadah Indonesia<br/>Leading dev team<br/>Architecture + IT infra</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===== Achievements ===== -->
+## 🏆 Key Achievements
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🚀%20Migrated%20Android%20native%20→%20Flutter-4%20apps%20shipped-0A66C2?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d1117"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📈%20Built%20273%2B%20production%20repos-5%2B%20years-58e68e?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🛡️%20Zero%20critical%20security%20incidents-OWASP%20aligned-ffa02e?style=for-the-badge&logo=owasp&logoColor=0d1117&labelColor=0d1117"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🔗%20Led%20multi-platform%20architecture-design%20→%20delivery-7ee787?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/💡%20Built%20IT%20training%20program-for%20cashier%20+%20warehouse%20staff-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📡%20Office%20network%20+%20server%20performance-hardened-02569B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===== Workflow ===== -->
+## 🔄 My Workflow
+
+<table align="center">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/💡%20Ideate-User%20stories-58e68e?style=flat-square&labelColor=0d1117&logo=github"/>
+      <sub>Backlog · Figma<br/>User research</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/🏗️%20Architect-Schema%20first-ffa02e?style=flat-square&labelColor=0d1117&logo=github"/>
+      <sub>DB design<br/>API contracts</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/⚡%20Build-Feature%20branches-7ee787?style=flat-square&labelColor=0d1117&logo=github"/>
+      <sub>TDD · Code<br/>review</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/🧪%20Test-Auto%20+%20E2E-0A66C2?style=flat-square&labelColor=0d1117&logo=github"/>
+      <sub>PHPUnit · Jest<br/>Playwright</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/🚀%20Deploy-Zero%20downtime-ff5f56?style=flat-square&labelColor=0d1117&logo=vercel"/>
+      <sub>Vercel · VPS<br/>Monitoring</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- ===== Tech Stack Icons ===== -->
 ## 🛠️ Tech Arsenal
 
