@@ -1,8 +1,8 @@
 <!-- ========================================================== -->
 <!--  GITHUB PROFILE README — donmass123                        -->
 <!--  Updated: 2026-11-27                                       -->
-<!--  Semua visual berbasis gambar agar tidak dihapus sanitizer  -->
-<!--  GitHub (atribut style & <style> di-strip saat render).     -->
+<!--  Semua visual berbasis gambar agar tidak dihapus sanitizer -->
+<!--  GitHub (atribut style & <style> di-strip saat render).    -->
 <!-- ========================================================== -->
 
 <!-- ===== Header Wave ===== -->
@@ -10,7 +10,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waves&color=0:58e68e,50:ffa02e,100:7ee787&height=220&section=header&text=Aloysius%20Mirel&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Head%20of%20Full%20Stack%20Development&descAlignY=62&descSize=18&showTitle=true&title=The%20Code%20Craft&titleColor=58e68e&titleSize=20&showIcon=true&icon=https://github.com/favicon.ico" width="100%" alt="header"/>
 </div>
 
-<!-- ===== Cool Taglines ===== -->
+<!-- ===== Tagline Badges ===== -->
 <div align="center">
   <img src="https://img.shields.io/badge/273%2B%20Repos-Shipping%20since%202019-58e68e?style=for-the-badge&logo=github&logoColor=0d1117"/>
   <img src="https://img.shields.io/badge/Zero%20Downtime-Deploys%20are%20Sacred-ffa02e?style=for-the-badge&logo=github&logoColor=0d1117"/>
@@ -97,6 +97,38 @@ $ ▋
 
 <br/>
 
+<!-- ===== Skill Proficiency ===== -->
+## 🎚️ Skill Proficiency
+
+<table align="center">
+  <tr>
+    <td align="right"><b>Laravel / PHP</b></td>
+    <td><img src="https://img.shields.io/badge/Expert-95%25-FF2D20?style=flat-square&labelColor=0d1117"/></td>
+    <td align="right"><b>React / Next.js</b></td>
+    <td><img src="https://img.shields.io/badge/Expert-92%25-61DAFB?style=flat-square&labelColor=0d1117"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>TypeScript / Node.js</b></td>
+    <td><img src="https://img.shields.io/badge/Advanced-90%25-3178c6?style=flat-square&labelColor=0d1117"/></td>
+    <td align="right"><b>MySQL / PostgreSQL</b></td>
+    <td><img src="https://img.shields.io/badge/Advanced-88%25-4479A1?style=flat-square&labelColor=0d1117"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Flutter / Dart</b></td>
+    <td><img src="https://img.shields.io/badge/Advanced-85%25-02569B?style=flat-square&labelColor=0d1117"/></td>
+    <td align="right"><b>Docker / DevOps</b></td>
+    <td><img src="https://img.shields.io/badge/Advanced-82%25-2496ED?style=flat-square&labelColor=0d1117"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Rust / Go</b></td>
+    <td><img src="https://img.shields.io/badge/Proficient-70%25-971C1C?style=flat-square&labelColor=0d1117"/></td>
+    <td align="right"><b>Kubernetes / AWS</b></td>
+    <td><img src="https://img.shields.io/badge/Learning-65%25-326CE5?style=flat-square&labelColor=0d1117"/></td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- ===== Tech Categories ===== -->
 <table align="center">
   <tr>
@@ -131,7 +163,7 @@ $ ▋
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
     </td>
     <td align="center">
-      <b>📱 Mobile</b><br/>
+      <b>�� Mobile</b><br/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white"/>
@@ -226,6 +258,32 @@ $ ▋
 
 <br/>
 
+<!-- ===== What I'm Building ===== -->
+## 🏗️ What I'm Building
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>🚀 Shipped</b><br/>
+      <img src="https://img.shields.io/badge/POS%20System-Live-2ea44f?style=for-the-badge&labelColor=0d1117&logo=github"/>
+      <img src="https://img.shields.io/badge/Stock%20Opname-Live-2ea44f?style=for-the-badge&labelColor=0d1117&logo=github"/>
+      <img src="https://img.shields.io/badge/Telegram%20Bot-Live-2ea44f?style=for-the-badge&labelColor=0d1117&logo=github"/>
+    </td>
+    <td align="center">
+      <b>🔥 In Progress</b><br/>
+      <img src="https://img.shields.io/badge/MysteryBox%20Platform-Development-F5A623?style=for-the-badge&labelColor=0d1117&logo=github"/>
+      <img src="https://img.shields.io/badge/Fleet%20Dashboard-Development-F5A623?style=for-the-badge&labelColor=0d1117&logo=github"/>
+    </td>
+    <td align="center">
+      <b>🚧 Next Up</b><br/>
+      <img src="https://img.shields.io/badge/Rust%20Actix%20Service-Planned-7ee787?style=for-the-badge&labelColor=0d1117&logo=github"/>
+      <img src="https://img.shields.io/badge/Mobile%20App%20v2-Planned-7ee787?style=for-the-badge&labelColor=0d1117&logo=github"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- ===== GitHub Stats ===== -->
 ## 📊 GitHub Snapshot
 
@@ -234,6 +292,7 @@ $ ▋
   <img src="https://img.shields.io/github/stars/donmass123?affiliations=OWNER&style=for-the-badge&logo=github&color=ffa02e&labelColor=0d1117&label=Stars"/>
   <img src="https://img.shields.io/badge/Repositories-273%2B-7ee787?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
   <img src="https://img.shields.io/github/last-commit/donmass123/StockOpname?style=for-the-badge&logo=git&color=58e68e&labelColor=0d1117&label=Last%20Commit"/>
+  <img src="https://img.shields.io/github/commit-activity/t/donmass123/StockOpname?style=for-the-badge&logo=git&color=58e68e&labelColor=0d1117&label=Commits%20This%20Week"/>
 </div>
 
 <br/>
@@ -261,21 +320,31 @@ $ ▋
 
 <br/>
 
-<!-- ===== Fun Facts ===== -->
-## ⚡ Fun Facts
+<!-- ===== Quotes ===== -->
+## 💬 Code Philosophy
 
-<blockquote>
-  <strong>"The best code is the code you can maintain six months later."</strong><br/>
-  Clarity → Testability → Performance, in that order.<br/><br/>
-  <strong>"If it's not in the docs, it doesn't exist."</strong><br/>
-  I document everything. No exceptions.<br/><br/>
-  <strong>"273 repos and counting."</strong><br/>
-  Every repo teaches something new.<br/><br/>
-  <strong>"Zero-downtime deploys are sacred."</strong><br/>
-  Blue/green when I can, rolling when I can't.<br/><br/>
-  <strong>"Talk is cheap. Show me the code."</strong><br/>
-  — Linus Torvalds, my daily reminder.
-</blockquote>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎯%20Clarity%20→%20Testability%20→%20Performance-Always-58e68e?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📖%20%22If%20it%27s%20not%20in%20the%20docs%2C%20it%20doesn%27t%20exist%22-Documentation%20First-ffa02e?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🛡️%20Zero-downtime%20deploys%20are%20sacred-Reliability%20First-7ee787?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/💬%20%22Talk%20is%20cheap.%20Show%20me%20the%20code.%22-Linus%20Torvalds-ff5f56?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
