@@ -1,0 +1,7 @@
+# Local Claude Code state
+.mirel/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
