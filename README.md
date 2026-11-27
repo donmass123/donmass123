@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Profile-donmass123-0d1117?style=for-the-badge&logo=github&logoColor=58e68e"/>
   <img src="https://img.shields.io/badge/PT%20Rumah%20Wadah-Head%20of%20Full%20Stack-58e68e?style=for-the-badge&logo=github&logoColor=0d1117"/>
   <img src="https://img.shields.io/badge/Jakarta-WIB%20UTC%2B7-238636?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-ffa02e?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-ffa02e?style=for-the-badge&logo=target&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-58e68e?style=for-the-badge&logo=statuspage&logoColor=0d1117"/>
   <img src="https://img.shields.io/badge/Coffee-☕%20Unlimited-6f4e37?style=for-the-badge&logo=coffee&logoColor=ffffff"/>
 </div>
@@ -120,24 +120,24 @@ $ ▋
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🚀%20Migrated%20Android%20native%20→%20Flutter-4%20apps%20shipped-0A66C2?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/🚀%20Migrated%20Android%20native%20to%20Flutter-4%20apps%20shipped-0A66C2?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d1117"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/📈%20Built%20273%2B%20production%20repos-5%2B%20years-58e68e?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🛡️%20Zero%20critical%20security%20incidents-OWASP%20aligned-ffa02e?style=for-the-badge&logo=owasp&logoColor=0d1117&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/🛡️%20Zero%20critical%20security%20incidents-OWASP%20aligned-ff5f56?style=for-the-badge&labelColor=0d1117"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🔗%20Led%20multi-platform%20architecture-design%20→%20delivery-7ee787?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/🔗%20Led%20multi-platform%20architecture-design%20to%20delivery-7ee787?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/💡%20Built%20IT%20training%20program-for%20cashier%20+%20warehouse%20staff-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/📡%20Office%20network%20+%20server%20performance-hardened-02569B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/📡%20Office%20network%20and%20server-hardened-02569B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
     </td>
   </tr>
 </table>
@@ -222,19 +222,19 @@ $ ▋
       <b>⚛️ Frontend</b><br/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuejs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logoColor=white&labelColor=0d1117"/>
     </td>
     <td align="center" width="50%">
       <b>⚙️ Backend</b><br/>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117"/>
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
       <img src="https://img.shields.io/badge/Rust-971C1C?style=flat-square&logo=rust&logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST%20API-58e68e?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST%20API-58e68e?style=flat-square&logoColor=0d1117&labelColor=0d1117"/>
     </td>
   </tr>
   <tr>
@@ -299,8 +299,8 @@ $ ▋
       <h3>💬 TelegramNotify</h3>
       <sub>Notifikasi real-time via Telegram bot</sub><br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117"/>
       <br/><br/>
       <a href="https://github.com/donmass123/TelegramNotify">🔗 View Repo</a>
     </td>
@@ -309,7 +309,7 @@ $ ▋
 
 <div align="center">
   <a href="https://github.com/donmass123?tab=repositories">
-    <img src="https://img.shields.io/badge/📂%20View%20All%20273%2B%20Repositories-58e68e?style=for-the-badge&logo=github&logoColor=0d1117"/>
+    <img src="https://img.shields.io/badge/All%20Repos-58e68e?style=for-the-badge&logo=github&logoColor=0d1117"/>
   </a>
 </div>
 
@@ -354,7 +354,7 @@ $ ▋
       <sub>End-to-end: DB schema, API,<br/>frontend, mobile, infra</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🛡️%20Security%20Mindset-OWASP%20Top%2010%20aligned-ffa02e?style=for-the-badge&labelColor=0d1117&logo=github"/>
+      <img src="https://img.shields.io/badge/Security%20Mindset-OWASP%20aligned-ff5f56?style=for-the-badge&labelColor=0d1117&logo=github"/>
       <sub>Input validation, auth flow,<br/>CSRF, rate limiting</sub>
     </td>
     <td align="center" width="33%">
@@ -397,10 +397,9 @@ $ ▋
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/donmass123?style=for-the-badge&logo=github&color=58e68e&labelColor=0d1117&label=Followers"/>
-  <img src="https://img.shields.io/github/stars/donmass123?affiliations=OWNER&style=for-the-badge&logo=github&color=ffa02e&labelColor=0d1117&label=Stars"/>
+  <img src="https://img.shields.io/badge/Stars-Your%20Support%20Means%20Lot-ffa02e?style=for-the-badge&logo=star&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Repositories-273%2B-7ee787?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
-  <img src="https://img.shields.io/github/last-commit/donmass123/StockOpname?style=for-the-badge&logo=git&color=58e68e&labelColor=0d1117&label=Last%20Commit"/>
-  <img src="https://img.shields.io/github/commit-activity/t/donmass123/StockOpname?style=for-the-badge&logo=git&color=58e68e&labelColor=0d1117&label=Commits%20This%20Week"/>
+  <img src="https://img.shields.io/badge/Last%20Commit-Always%20Shipping-58e68e?style=for-the-badge&logo=git&logoColor=0d1117&labelColor=0d1117"/>
 </div>
 
 <br/>
@@ -409,7 +408,7 @@ $ ▋
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=donmass123&bg_color=0d1117&color=58e68e&line=ffa02e&point=7ee787&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph"/>
+  <img src="https://ghchart.rshah.org/409/donmass123" width="100%" alt="contribution chart"/>
 </div>
 
 <br/>
@@ -431,15 +430,15 @@ $ ▋
   <tr>
     <td align="center">
       <b>💻 IDE &amp; Editors</b><br/>
-      <img src="https://img.shields.io/badge/VS%20Code-2496ED?style=flat-square&logo=visualestudiocode&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/VS%20Code-2496ED?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0d1117"/>
       <img src="https://img.shields.io/badge/Cursor-FF6B6B?style=flat-square&logo=cursor&logoColor=white&labelColor=0d1117"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logoColor=white&labelColor=0d1117"/>
     </td>
     <td align="center">
       <b>🔍 Monitoring &amp; Debug</b><br/>
-      <img src="https://img.shields.io/badge/Sentry-4353FF?style=flat-square&logo=sentry&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Sentry-4353FF?style=flat-square&logoColor=white&labelColor=0d1117"/>
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white&labelColor=0d1117"/>
-      <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logoColor=white&labelColor=0d1117"/>
     </td>
     <td align="center">
       <b>🔧 CI/CD &amp; Infra</b><br/>
@@ -458,14 +457,14 @@ $ ▋
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0d1117"/>
       <br/>
       <img src="https://img.shields.io/badge/Certified-Kubernetes%20Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117"/>
       <br/>
-      <img src="https://img.shields.io/badge/OWASP%20Security%20Fundamentals-Complied-ff5f56?style=for-the-badge&logo=owasp&logoColor=0d1117&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/OWASP-Compliant-ff5f56?style=for-the-badge&logo=owasp&logoColor=0d1117&labelColor=0d1117"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Rust-Actix-Learning%20Now-971C1C?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Rust-Learning%20Now-971C1C?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117"/>
       <br/>
       <img src="https://img.shields.io/badge/AI%2FLLM-Exploring%20Integrations-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
       <br/>
@@ -482,7 +481,7 @@ $ ▋
 <div align="center">
   <img src="https://img.shields.io/badge/🤝%20Freelance%20Projects-Open-58e68e?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/📋%20Mentoring%20Juniors-Open-ffa02e?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🏢%20Consulting-Open-7ee787?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Consulting-Open-7ee787?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
 </div>
 
 <br/>
@@ -491,7 +490,7 @@ $ ▋
 ## 🎯 Currently Into
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Rust%20+%20Actix-Learning-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-Production-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-Exploring-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-Cloud%20Native-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
@@ -512,12 +511,12 @@ $ ▋
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/📖%20%22If%20it%27s%20not%20in%20the%20docs%2C%20it%20doesn%27t%20exist%22-Documentation%20First-ffa02e?style=for-the-badge&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/📖%20Documentation%20First-%22If%20it%27s%20not%20documented%2C%20it%20doesn%27t%20exist%22-ffa02e?style=for-the-badge&labelColor=0d1117"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🛡️%20Zero-downtime%20deploys%20are%20sacred-Reliability%20First-7ee787?style=for-the-badge&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/🛡️%20Reliability%20First-Zero-downtime%20deploys%20are%20sacred-7ee787?style=for-the-badge&labelColor=0d1117"/>
     </td>
   </tr>
   <tr>
@@ -543,7 +542,7 @@ $ ▋
     <img src="https://img.shields.io/badge/Dev.to-Read-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/1/donmass123">
-    <img src="https://img.shields.io/badge/StackOverflow-Ask-1E5A8A?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/StackOverflow-Ask-1E5A8A?style=for-the-badge&logoColor=white"/>
   </a>
 </div>
 
