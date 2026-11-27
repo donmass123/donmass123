@@ -414,6 +414,79 @@ $ ▋
 
 <br/>
 
+<!-- ===== Coding Streak ===== -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🔥%20Coding%20Streak-Every%20Day%20Is%20Shipping%20Day-FF6B6B?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/💻%20Hours%20Logged-5000%2B%20per%20Year-0d1117?style=for-the-badge&labelColor=1a1a2e&logo=code&logoColor=58e68e"/>
+  <img src="https://img.shields.io/badge/🐛%20Bugs%20Fixed-Countless-ffa02e?style=for-the-badge&labelColor=0d1117&logo=github"/>
+  <img src="https://img.shields.io/badge/📦%20Features%20Shipped-200%2B-7ee787?style=for-the-badge&labelColor=0d1117&logo=github"/>
+</div>
+
+<br/>
+
+<!-- ===== Tools I Use Daily ===== -->
+## 🧰 Tools I Use Daily
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>💻 IDE &amp; Editors</b><br/>
+      <img src="https://img.shields.io/badge/VS%20Code-2496ED?style=flat-square&logo=visualestudiocode&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Cursor-FF6B6B?style=flat-square&logo=cursor&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0d1117"/>
+    </td>
+    <td align="center">
+      <b>🔍 Monitoring &amp; Debug</b><br/>
+      <img src="https://img.shields.io/badge/Sentry-4353FF?style=flat-square&logo=sentry&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white&labelColor=0d1117"/>
+    </td>
+    <td align="center">
+      <b>🔧 CI/CD &amp; Infra</b><br/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Traefik-FF7538?style=flat-square&logo=traefik&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white&labelColor=0d1117"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===== Certifications & Learning ===== -->
+## 📚 Certifications &amp; Learning
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0d1117"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Certified-Kubernetes%20Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117"/>
+      <br/>
+      <img src="https://img.shields.io/badge/OWASP%20Security%20Fundamentals-Complied-ff5f56?style=for-the-badge&logo=owasp&logoColor=0d1117&labelColor=0d1117"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Rust-Actix-Learning%20Now-971C1C?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117"/>
+      <br/>
+      <img src="https://img.shields.io/badge/AI%2FLLM-Exploring%20Integrations-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Next.js%20App%20Router-Mastered-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===== Open to Work ===== -->
+## 🚀 Open to
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🤝%20Freelance%20Projects-Open-58e68e?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/📋%20Mentoring%20Juniors-Open-ffa02e?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🏢%20Consulting-Open-7ee787?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
+</div>
+
+<br/>
+
 <!-- ===== Currently Into ===== -->
 ## 🎯 Currently Into
 
