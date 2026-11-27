@@ -344,13 +344,39 @@ $ ▋
 
 <br/>
 
+<!-- ===== What I Can Help With ===== -->
+## 🤝 What I Can Help With
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Architecture%20Consultation-System%20Design-0A66C2?style=for-the-badge&labelColor=0d1117&logo=github"/>
+      <sub>Monolith → microservices<br/>API contracts, DB design</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Security%20Review-OWASP%20Top%2010-ff5f56?style=for-the-badge&labelColor=0d1117&logo=owasp"/>
+      <sub>Auth flow, input validation<br/>CSRF, rate limiting</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/CI/CD%20Setup-GitHub%20Actions%2C%20Vercel-2ea44f?style=for-the-badge&labelColor=0d1117&logo=github"/>
+      <sub>Pipelines, deploy strategy<br/>Monitoring, rollback</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Mobile%20Migration-Android%20→%20Flutter-02569B?style=for-the-badge&labelColor=0d1117&logo=flutter"/>
+      <sub>Native to cross-platform<br/>API integration, testing</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- ===== What I Bring ===== -->
 ## 💡 What I Bring to a Team
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🏗️%20Full%20Stack%20Ownership-Design%20→%20Deploy-58e68e?style=for-the-badge&labelColor=0d1117&logo=github"/>
+      <img src="https://img.shields.io/badge/Full%20Stack%20Ownership-Design%20to%20Deploy-58e68e?style=for-the-badge&labelColor=0d1117&logo=github"/>
       <sub>End-to-end: DB schema, API,<br/>frontend, mobile, infra</sub>
     </td>
     <td align="center" width="33%">
@@ -358,11 +384,63 @@ $ ▋
       <sub>Input validation, auth flow,<br/>CSRF, rate limiting</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/📋%20IT%20Support%20+%20Training-Network%2C%20DB%2C%20Staf-7ee787?style=for-the-badge&labelColor=0d1117&logo=github"/>
+      <img src="https://img.shields.io/badge/IT%20Support%20+%20Training-Network%2C%20DB%2C%20Staf-7ee787?style=for-the-badge&labelColor=0d1117&logo=github"/>
       <sub>Kantor network, backup DB,<br/>pelatihan kasir & gudang</sub>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- ===== Pinned Repos ===== -->
+## ⭐ Pinned Repos
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>📦 StockOpname</b><br/>
+      <sub>Real-time stock opname system</sub><br/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <a href="https://github.com/donmass123/StockOpname">🔗</a>
+    </td>
+    <td align="center">
+      <b>🛒 POS_BAIQ_MARKET</b><br/>
+      <sub>Multi-location point of sale</sub><br/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <a href="https://github.com/donmass123/POS_BAIQ_MARKET_NEW">🔗</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🎁 MYMISTERYBOX</b><br/>
+      <sub>Mystery box platform</sub><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <a href="https://github.com/donmass123/MYMISTERYBOX-MOBILE">🔗</a>
+    </td>
+    <td align="center">
+      <b>💬 TelegramNotify</b><br/>
+      <sub>Real-time Telegram notifications</sub><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117"/>
+      <a href="https://github.com/donmass123/TelegramNotify">🔗</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===== Tech Principles ===== -->
+## 📏 Tech Principles
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Test-Driven-Write%20tests%20first-2ea44f?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Secure-by-Default-OWASP%20first-ff5f56?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Accessible-Everyone%20can%20use%20it-0A66C2?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Performant-Fast%20load%2C%20low%20CPU-58e68e?style=for-the-badge&labelColor=0d1117"/>
+</div>
 
 <br/>
 
@@ -522,6 +600,28 @@ $ ▋
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/💬%20%22Talk%20is%20cheap.%20Show%20me%20the%20code.%22-Linus%20Torvalds-ff5f56?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===== GitHub Status ===== -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collab%20%7C%20Available-2ea44f?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
+</div>
+
+<br/>
+
+<!-- ===== Language Dominance ===== -->
+## 📊 Language Dominance
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PHP-Laravel%20dominant-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/TypeScript-Next.js%20+%20Node-3178c6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Dart-Flutter-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=0d1117"/>
     </td>
   </tr>
 </table>
